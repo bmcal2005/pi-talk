@@ -1,1 +1,3 @@
 This is a smart assistant similar to Alexa but powered by ChatGPT for deeper, more versatile response. It features a touchscreen with select apps (weather, alarm, daily news reader, and reminder/to-do app), can control smart appliances, and responds to voice input when activated by name (Habibi). This project will have a decent intensity of computer code and will be program heavy.
+
+https://docs.google.com/document/d/1aebxPtyBnlzbNiULjDT9bF9DWX68LHMqPvhm_yfcHi4/edit?usp=sharing
